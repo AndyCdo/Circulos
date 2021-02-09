@@ -1,0 +1,13 @@
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.exe
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.deps.json
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.runtimeconfig.json
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.runtimeconfig.dev.json
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.dll
+E:\work\repos\circulos\bin\Debug\netcoreapp3.1\circulos.pdb
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.csprojAssemblyReference.cache
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.AssemblyInfoInputs.cache
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.AssemblyInfo.cs
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.csproj.CoreCompileInputs.cache
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.dll
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.pdb
+E:\work\repos\circulos\obj\Debug\netcoreapp3.1\circulos.genruntimeconfig.cache
